@@ -6,7 +6,7 @@ Este programa permite ingresar la informacion de los PoliPerros: NOMBRE, HUELLA 
 
 ## Utilización
 
-Puede acceder con mayor facilidad descargando el archivo desde el siguiente link: 
+Puede acceder al programa con mayor facilidad descargando el archivo desde el siguiente link: 
 https://github.com/selena221-tr/Poli-Perros/blob/main/Programa_Polierros.exe
 
 ## Funcionalidades
